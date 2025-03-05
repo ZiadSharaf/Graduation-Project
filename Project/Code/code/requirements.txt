@@ -1,0 +1,12 @@
+pandas
+
+prince
+
+scikit-learn
+xgboost
+pgmpy
+
+scikit-optimize
+imblearn
+
+mlxtend
